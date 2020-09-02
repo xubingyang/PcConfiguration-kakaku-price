@@ -1,0 +1,62 @@
+{
+  "cpu": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001259158/"
+  },
+  "motherboard": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001254911/"
+  },
+  "memory": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001049471/"
+  },
+  "ssd": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001171154/"
+  },
+  "hdd": {
+    "quantity": 0,
+    "link": null
+  },
+  "graphicCard": {
+    "quantity": 0,
+    "link": null
+  },
+  "cooling": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001034299/"
+  },
+  "powerUnit": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001166416/"
+  },
+  "pcCase": {
+    "quantity": 1,
+    "link": "https://kakaku.com/item/K0001238047/"
+  },
+  "caseFan": {
+    "quantity": 4,
+    "link": "https://kakaku.com/item/K0001058778/"
+  },
+  "keyboard": {
+    "quantity": 0,
+    "link": null
+  },
+  "mouse": {
+    "quantity": 0,
+    "link": null
+  },
+  "monitor": {
+    "quantity": 0,
+    "link": null
+  },
+  "captureCard": {
+    "quantity": 0,
+    "link": null
+  },
+  "soundCard": {
+    "quantity": 0,
+    "link": null
+  }
+}

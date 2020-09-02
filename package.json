@@ -1,0 +1,20 @@
+{
+  "name": "pc-config",
+  "version": "1.0.0",
+  "description": "Scraping price information form kakaku.com for a customized PC configuration.",
+  "main": "index.js",
+  "author": "Bingyang Xu",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": false,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "moment": "^2.27.0",
+    "mongoose": "^5.10.2",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
